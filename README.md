@@ -1,9 +1,9 @@
 # AI Course Generator
 
-[![Hosted on Vercel](https://vercel.com/button)](https://ai-course-genarator.vercel.app/)  
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-course-genarator.vercel.app/)
+[![Hosted on Vercel](https://vercel.com/button)](https://venkys-ai-course.vercel.app/)  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-4CAF50?style=for-the-badge&logo=vercel&logoColor=white)](https://venkys-ai-course.vercel.app/)
 
-[Visit the Live App](https://ai-course-genarator.vercel.app/)
+[Visit the Live App](https://venkys-ai-course.vercel.app/)
 
 
 ## Overview
