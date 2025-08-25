@@ -87,14 +87,6 @@ Contributions are welcome! Feel free to:
 - Submit a pull request for review
 
 ---
-
-## Links
-
-- **GitHub Repository**: [AI Course Generator](https://github.com/Bhuvi12345678/Ai-Course-Genarator)  
-- **Live Application**: [SeedOfCode AI Course Generator](https://ai-course-genarator.vercel.app/)  
-
----
-
 `Thank You :)`
 
 ---
